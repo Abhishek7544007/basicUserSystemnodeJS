@@ -10,7 +10,7 @@ npm install node\
 npm install express\
 npm install dotenv\
 npm init \
-npm install nodemon\
+npm install nodemon
 
 ## Run
 npm start index.js
